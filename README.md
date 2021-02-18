@@ -1,4 +1,4 @@
-# Social-Media-Report-FlexDashboard-Shiny
+# Social Media Report Using FlexDashboard-Shiny
 
 The aim of this dashboard is to present data of social media contacts for any company or influencer. 
 
